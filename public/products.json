@@ -1,0 +1,164 @@
+[
+    {
+        "id": 1,
+        "name": "Nestle Lactogen 1",
+        "price": "630",
+        "quantity": "400ml",
+        "img": "https://i.ibb.co/3cyJVbP/1.png",
+        "description": "LACTOGEN 1 Gentle Start contains L. reuteri, a probiotic culture naturally present in breast milk. This helps to reduce colic-related conditions which in turn helps diminish a baby’s excessive crying.LACTOGEN 1 is a spray dried Infant Formula for infants from birth onwards when they are not breastfed. Origin: India",
+        "catagory": "baby"
+    },
+    {
+        "id": 2,
+        "name": "Neocare Baby Wipes",
+        "price": "220",
+        "quantity": "120 wips",
+        "img": "https://i.ibb.co/0VBk2Vk/2.png",
+        "description": "NeoCare baby wipe is very much soft, suitable for babyâ80 99s sensitive skin, effectively cleans all over babys body and manufactured in a hygienic environment without any manual process. 80s will meet your monthly need Aloe Vera  and Chamomile extract is addedDispense 1 wipe at a tineMicrobiologically tested",
+        "catagory": "baby"
+    },
+    {
+        "id": 3,
+        "name": "Bashundhara Diapant",
+        "price": "140",
+        "quantity": "5 Pcs",
+        "img": "https://i.ibb.co/ncBnr3M/3.png",
+        "description": "Bashundhara Diapant Diaper XXL has many special specifications, like Pant Style Design: Underwear Flexibility with a flexible round elastic along with cottony soft material that is gentle on babys skin. ... It is not irritating to a babys delicate skin. Also highly stretchable which ensures the babys comfort.",
+        "catagory": "baby"
+    },
+    {
+        "id": 4,
+        "name": "Neocare Diaper xxl",
+        "price": "120",
+        "quantity": "4 Pcs",
+        "img": "https://i.ibb.co/6n5z3kX/4.png",
+        "description": "NeoCare Baby Diaper made with non-woven material, pulp, super absorbent polymer, polyethylene, elastic material, adhesive. Neocare baby Diaper allows fresh air to circulate through the cover more quickly and easily, helping to prevent rashes, leeving baby fresh and dry.We are offering NeoCare Baby Diaper.",
+        "catagory": "baby"
+    },
+    {
+        "id": 5,
+        "name": "PUR Feeding Bottle",
+        "price": "470",
+        "quantity": "250ml",
+        "img": "https://i.ibb.co/XDfbvJL/5.png",
+        "description": "Classy Feeding bottle comes with variable flow teat. Silicone teat made from medical grade silicone. The bottle has a hood and a disc to place in the neck of the bottle, to prevent leakage during transportation.Pur silicone nipples are passes repeated post production testing and prolonged curing processes.",
+        "catagory": "baby"
+    },
+    {
+        "id": 6,
+        "name": "Premium Face Masks",
+        "price": "300",
+        "quantity": "2 Pcs",
+        "img": "https://i.ibb.co/KFTwmfk/6.png",
+        "description": "PREMIUM MASKS - Give your loved one extra protection with this super premium 3 layer mask! 3.5\" x 6.25”  Outer layer: Cotton interlock knit that’s smooth and soft. Middle Filter Layer: non-woven fabric  Inner layer (against face): 100% cotton white woven twill. You’ll love these patterns for the little loves in your life! ",
+        "catagory": "baby"
+    },
+    {
+        "id": 7,
+        "name": "Galvasmet 50/500",
+        "price": "330",
+        "quantity": "10 tablet",
+        "img": "https://i.ibb.co/jRBvwNK/1.png",
+        "description": "This tablet is indicated as an adjunct to diet and exercises to improve glycaemic control in patients with type 2 diabetes mellitus whose diabetes is not adequately controlled on Metformin Hydrochloride or Vildagliptin alone or who are already treated with the combination of Vildagliptin and Metformin Hydrochloride, as separate tablets.",
+        "catagory": "diabetes"
+    },
+    {
+        "id": 8,
+        "name": "Dialiptin M 50/500",
+        "price": "126",
+        "quantity": "7 tablet",
+        "img": "https://i.ibb.co/kmpsmQK/2.png",
+        "description": "This tablet is indicated as an adjunct to diet and exercises to improve glycaemic control in patients with type 2 diabetes mellitus whose diabetes is not adequately controlled on Metformin Hydrochloride or Vildagliptin alone or who are already treated with the combination of Vildagliptin and Metformin Hydrochloride, as separate tablets.",
+        "catagory": "diabetes"
+    },
+    {
+        "id": 9,
+        "name": "Comet 500 Tablet",
+        "price": "40",
+        "quantity": "10 tablet",
+        "img": "https://i.ibb.co/TTZVKqY/3.png",
+        "description": "Metformin is a biguanide type oral antihyperglycemic drug used in the management of type 2 diabetes. It lowers both basal and postprandial plasma glucose. Its mechanism of action is different from those of sulfonylureas and it does not produce hypoglycemia. Metformin decreases hepatic glucose production.",
+        "catagory": "diabetes"
+    },
+    {
+        "id": 10,
+        "name": "Linatab m 50/500",
+        "price": "120",
+        "quantity": "10 tablet",
+        "img": "https://i.ibb.co/NSRykN8/4.png",
+        "description": "Linagliptin is indicated to improve glycemic control in patients with type 2 diabetes mellitus. Linagliptin is an inhibitor of DPP-4 (dipeptidyl peptidase-4), an enzyme that degrades the incretin hormones GLP-1 (glucagon like peptide-1) and GIP (glucose dependent insulinotropic polypeptide). (α) cells in the circulation.",
+        "catagory": "diabetes"
+    },
+    {
+        "id": 11,
+        "name": "Comprid Xr 60Mg",
+        "price": "110",
+        "quantity": "10 tablet",
+        "img": "https://i.ibb.co/SRDLLbg/5.png",
+        "description": "Gliclazide is a medicine that reduces blood sugar levels (oral antidiabetic medicine belonging to the sulphonylurea group). Gliclazide is used in a certain form of diabetes (type 2 diabetes Mellitus) in adults, when diet, exercise and weight loss alone do not have an adequate effect on keeping blood sugar at the correct level.",
+        "catagory": "diabetes"
+    },
+    {
+        "id": 12,
+        "name": "Mixtrad 30/70 100Iu",
+        "price": "415",
+        "quantity": "10ml",
+        "img": "https://i.ibb.co/4RdHRkR/6.png",
+        "description": "Insulin Human (rDNA) & Isophane Insulin Human 30/70 Injection 40 IU/ml: Each ml suspension contains Insulin Human (rDNA) USP 40 IU (equivalent to 1.388 mg) as 30% Soluble Insulin Human (Regular) and 70% Isophane Insulin Human.Insulin Human (rDNA) & Isophane Insulin Human 30/70 Injection 100 IU/ml: Each ml suspension.",
+        "catagory": "diabetes"
+    },
+    {
+        "id": 13,
+        "name": "Azyth 500mg Tablet",
+        "price": "165",
+        "quantity": "3 Pcs",
+        "img": "https://i.ibb.co/HHywDhC/1.png",
+        "description": "Azithromycin is indicated for infections (caused by susceptible organisms) in lower respiratory tract infections including bronchitis and pneumonia, in upper respiratory tract infections including sinusitis and pharyngitis/tonsillitis, in otitis media, and in skin and soft tissue infections. In sexually transmitted .",
+        "catagory": "prescription"
+    },
+    {
+        "id": 14,
+        "name": "Moxaclav 625mg Tablet",
+        "price": "192",
+        "quantity": "6 Pcs",
+        "img": "https://i.ibb.co/FzHB1QC/2.png",
+        "description": "Co-amoxiclav is indicated for short-term treatment of bacterial infections at the following sites:Upper respiratory tract infections (including ENT) e.g.tonsillitis,sinusitis,otitis media.Lower respiratory tract infections e.g.acute and chronic bronchitis, lobar and bronchopneumonia.Genito-urinary tract infections.",
+        "catagory": "prescription"
+    },
+    {
+        "id": 15,
+        "name": "Sergel 20 Capcule",
+        "price": "70",
+        "quantity": "10 Pcs",
+        "img": "https://i.ibb.co/DYGv1g6/3.png",
+        "description": "Esomeprazole is a proton pump inhibitor that suppresses gastric acid secretion by specific inhibition of the H+/K+-ATPase in the gastric parietal cell. Esomeprazole (S-isomer of omeprazole) is the first single optical isomer of proton pump inhibitor, provides better acid control than racemic proton pump inhibitors.",
+        "catagory": "prescription"
+    },
+    {
+        "id": 16,
+        "name": "Tyclav 625mg Tablet",
+        "price": "192",
+        "quantity": "6 Pcs",
+        "img": "https://i.ibb.co/3RtHzYY/4.png",
+        "description": "Co-amoxiclav is indicated for short-term treatment of bacterial infections at the following sites:Upper respiratory tract infections (including ENT) e.g.tonsillitis,sinusitis,otitis media.Lower respiratory tract infections e.g.acute and chronic bronchitis, lobar and bronchopneumonia.Genito-urinary tract infections.",
+        "catagory": "prescription"
+    },
+    {
+        "id": 17,
+        "name": "Brodil 4mg Tablet",
+        "price": "10",
+        "quantity": "20 Pcs",
+        "img": "https://i.ibb.co/WKp9SSp/5.png",
+        "description": "Salbutamol is a synthetic sympathomimetic agent with predominant beta-2 adrenergic activity. Salbutamol produces bronchodilatation through stimulation of beta-2-adrenergic receptors in bronchial smooth muscles, thereby causing relaxation of bronchial muscle fibers. This action is manifested by an improvement in pulmonary.",
+        "catagory": "prescription"
+    },
+    {
+        "id": 18,
+        "name": "Seclo 20mg Capsule",
+        "price": "60",
+        "quantity": "10 Pcs",
+        "img": "https://i.ibb.co/ZMvy90Z/6.png",
+        "description": "Omeprazole, a substituted benzimidazole, is an inhibitor of gastric acid secretion. It inhibits gastric acid secretion by blocking hydrogen-potassium-adenosine triphosphatase (H+/K+ ATPase) enzyme system in the gastric parietal cell. After oral administration, the onset of the antisecretory effect occurs within one hour.",
+        "catagory": "prescription"
+    }
+]
