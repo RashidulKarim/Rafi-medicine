@@ -1,6 +1,6 @@
 
 
-[Live site](https://rafi-medicine-center.web.app/).
+[Rafi Medicine center app](https://rafi-medicine-center.web.app/).
 
 This app create for a medicine store. A user can see all the product with description and upload prescription. we use firebase for authentication.
 
