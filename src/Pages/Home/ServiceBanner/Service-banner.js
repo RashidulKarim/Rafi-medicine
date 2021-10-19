@@ -23,6 +23,13 @@ const ServiceBanner = () => {
                         text-center absolute top-0 font-bold text-red-500 left-20 '>24/7 Help Line</h2>
                     </div>
             </div>
+            <div className='my-8 mx-auto flex justify-center items-center flex-wrap'>
+                <h3 className='mx-8 sm:text-sm lg:text-2xl font-bold border-4 bg-black text-white border-blue-400 p-2 rounded-lg my-4'>--Genuine Medicine-- </h3>
+                <h3 className='mx-8 sm:text-sm lg:text-2xl font-bold border-4 bg-black text-white border-blue-400 p-2 rounded-lg my-4'>100% Timely Delivery</h3>
+                <h3 className='mx-8 sm:text-sm lg:text-2xl font-bold border-4 bg-black text-white border-blue-400 p-2 rounded-lg my-4'>Easy Payment Method</h3>
+                <h3 className='mx-8 sm:text-sm lg:text-2xl font-bold border-4 bg-black text-white border-blue-400 p-2 rounded-lg my-4'>-Easy Return Method-</h3>
+                
+            </div>
         </div>
     );
 };
