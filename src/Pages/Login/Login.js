@@ -1,5 +1,3 @@
-import { faGoogle } from '@fortawesome/free-brands-svg-icons';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import React, { useState } from "react";
 import { Link, useHistory, useLocation } from 'react-router-dom';
 import useAuth from '../../hooks/useAuth';
@@ -54,11 +52,11 @@ const Login = () => {
                   }
                 <input onBlur={handlePassword} className='bg-white text-black p-2 m-2 w-full' type='password'  placeholder="Password" />
                 <br />
-                <button onClick={logIn} className='bg-white text-xl rounded-2xl text-black font-bold p-2 m-2 w-full cursor-pointer'> Login</button>
+                <button style={{background: "linear-gradient(90deg, #f2994a 0%, #f2c94c 100%)"}} onClick={logIn} className='bg-white text-xl rounded-2xl text-black font-bold p-2 m-2 w-full cursor-pointer'> Login</button>
             </div>
             <p className='ml-2 text-right'>Don't have an account? Please <Link className='underline font-bold' to='/register'>Register</Link></p>
            <hr className='ml-2 mt-2' />
-            <button onClick={logInWithGoogle} className='m-2 p-2 w-full bg-yellow-700 font-bold border-2 rounded-lg text-white'>Login With <FontAwesomeIcon icon={faGoogle} /> </button>
+            <button style={{backgroundColor:'#6c5ce7'}} onClick={logInWithGoogle} className='m-2 p-2 w-full font-bold border-2 rounded-lg text-white'>Login With Google </button>
             {
                   error && <small className='text-red-500'>{error}</small>
                 }

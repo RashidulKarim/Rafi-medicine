@@ -10,7 +10,7 @@ const Header = () => {
   return (
     <div>
      
-      <nav className="bg-gray-800">
+      <nav style={{backgroundColor:'#6c5ce7'}}>
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex items-center justify-between h-16">
             <div className="flex items-center">

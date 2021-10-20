@@ -1,5 +1,3 @@
-import { faGoogle } from '@fortawesome/free-brands-svg-icons';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import React, { useState } from 'react';
 import { Link, useHistory, useLocation } from 'react-router-dom';
 import useAuth from '../../hooks/useAuth';
@@ -79,9 +77,7 @@ const Registration = () => {
                 {
                     errorPassword&& <small className='text-red-500 '>{errorPassword}</small>
                 }
-               <div className='w-3/4'>
-               <button onClick={() => signUp(name, email, password)} className='text-black text-xl rounded-2xl bg-white font-bold p-1 w-2/4 mx-auto my-2 cursor-pointer'> Register</button>
-               </div>
+               <button style={{background: "linear-gradient(90deg, #f2994a 0%, #f2c94c 100%)"}} onClick={() => signUp(name, email, password)} className='text-black text-xl rounded-2xl w-full font-bold p-1 my-2 cursor-pointer'> Register</button>
                 {
                   error && <small className='text-red-500'>{error}</small>
                 }
@@ -91,7 +87,7 @@ const Registration = () => {
             </div>
             <p className='ml-2 text-right'>Already have an Account? Please <Link className='underline font-bold' to='/login'>Login</Link></p>
            <hr className='ml-2 mt-2' />
-            <button onClick={logInWithGoogle} className='m-2 p-2 w-full bg-yellow-700 font-bold border-2 rounded-lg text-white'>Login With <FontAwesomeIcon icon={faGoogle} /> </button>
+            <button style={{backgroundColor:'#6c5ce7'}} onClick={logInWithGoogle} className='m-2 p-2 w-full font-bold border-2 rounded-lg text-white'>Login With Google </button>
        </div>
    </div>
   );
